@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "err.h": "c",
+        "portable.h": "c",
+        "portmacro.h": "c",
+        "limits.h": "c",
+        "vcruntime.h": "c",
+        "sal.h": "c",
+        "vadefs.h": "c"
+    },
+    "idf.adapterTargetName": "esp32"
+}
